@@ -1,0 +1,32 @@
+{
+  "morning": [
+    {
+      "controllo": "Controllo pompa",
+      "descrizione": "Verifica il funzionamento corretto della pompa"
+    },
+    {
+      "controllo": "Controllo valvole",
+      "descrizione": "Controlla che tutte le valvole siano chiuse correttamente"
+    }
+  ],
+  "afternoon": [
+    {
+      "controllo": "Controllo temperatura",
+      "descrizione": "Assicurati che la temperatura sia nei limiti stabiliti"
+    },
+    {
+      "controllo": "Controllo pressione",
+      "descrizione": "Verifica che la pressione sia all'interno degli intervalli di sicurezza"
+    }
+  ],
+  "night": [
+    {
+      "controllo": "Ispezione sensori",
+      "descrizione": "Controlla che tutti i sensori funzionino correttamente"
+    },
+    {
+      "controllo": "Controllo luci di emergenza",
+      "descrizione": "Testa il funzionamento delle luci di emergenza"
+    }
+  ]
+}
